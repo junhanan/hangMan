@@ -1,0 +1,11 @@
+What went well?
+
+- We finally did some technical work as a group. This is our 3rd week since we have been assigned to this group and this is our first time coding together from scratch. Very fun!
+
+What didn't go so well?
+
+- We spend an entire day creating non-technical powerpoints on the same topic. We also spent an entire day listening to the same presentation 17 times. I think they could have given us more than an hour to work on this exercise. Why are algo hour and technical exercises rushed compared to presentation times?
+
+What could have been better?
+- I hope we can stop making presentations on making algorithm and flowcharts. 
+
